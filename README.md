@@ -12,7 +12,11 @@ I am currently building a deep foundation in software engineering, following a s
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### 📈 Daily Grind Consistency
-![Dipu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipuh2954&theme=dark&hide_border=true&background=00000000)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dipuh2954&theme=dark&hide_border=true&background=00000000">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=dipuh2954&hide_border=true&background=00000000">
+  <img alt="Dipu's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=dipuh2954&hide_border=true">
+</picture>
 
 ### 🎯 Current Focus
 * 🚀 **Kotlin & Android:** Learning from absolute zero to build professional-grade applications.
