@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hey there, I'm Dipu Halder!
 
-<!--
-**dipuh2954/dipuh2954** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student | Aspiring Android Developer**
 
-Here are some ideas to get you started:
+I am currently building a deep foundation in software engineering, following a structured 20-year career and financial roadmap that I launched on April 1, 2026. My goal is to master mobile development and high-performance embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
+### 📈 Daily Grind Statistics
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipuh2954&show_icons=true&theme=tokyonight&hide_border=true)
+
+### 🎯 Current Focus
+* 🚀 **Kotlin & Android:** Learning from absolute zero to build professional apps.
+* 🧠 **Data Structures & Algorithms:** Mastering C and DSA for my upcoming DAA semester.
+* 🎻 **Music:** Learning Indian-style Violin with a goal to play Western arrangements.
+
+### 📫 Let's Connect
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](ADD_YOUR_LINKEDIN_URL_HERE)
