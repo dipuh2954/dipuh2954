@@ -2,7 +2,7 @@
 
 **Computer Science Student | Aspiring Android Developer**
 
-I am building a deep foundation in software engineering, following a structured 20-year career and financial roadmap launched on March 1, 2026. My daily goal is to master mobile development and performance-critical systems.
+I am currently building a deep foundation in software engineering, following a structured 20-year career and financial roadmap that I launched on April 1, 2026. My goal is to master mobile development and high-performance embedded systems.
 
 ### 🛠 Tech Stack & Tools
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
