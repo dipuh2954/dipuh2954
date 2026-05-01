@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Bikash (Dipu) Halder!
+# 👋 Hey there, I'm Dipu Halder!
 
 **Computer Science Student | Aspiring Android Developer**
 
