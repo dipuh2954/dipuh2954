@@ -11,9 +11,8 @@ I am currently building a deep foundation in software engineering, following a s
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### 📈 Daily Grind Statistics
-<!-- Fixed URL: Forces white text and transparent background for consistent dark mode look -->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dipuh2954&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=3ddc84&hide_border=true)
+### 📈 Daily Grind Consistency
+![Dipu's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipuh2954&theme=dark&hide_border=true&background=00000000)
 
 ### 🎯 Current Focus
 * 🚀 **Kotlin & Android:** Learning from absolute zero to build professional-grade applications.
