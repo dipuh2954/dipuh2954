@@ -22,4 +22,4 @@ I am currently building a deep foundation in software engineering, following a s
 * 🎻 **Music:** Learning Indian-style Violin with the goal of mastering Western arrangements by ear.
 
 ### 📫 Let's Connect
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](ADD_YOUR_LINKEDIN_URL_HERE)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/dipu-halder/)
